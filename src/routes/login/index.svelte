@@ -59,7 +59,7 @@
 	<button type="submit" class="btn btn-primary">Submit</button>
 
 	{#if isLoggedIn}
-		<p>I am logged in!</p>
+		<p>I am logged in, baby!</p>
 	{/if}
 </form>
 
